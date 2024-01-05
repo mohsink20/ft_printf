@@ -51,8 +51,8 @@ Discover the popular and versatile C function, printf(). This exercise enhances 
 
 ## IV. Bonus Part
 ### Bonus List:
-- Manage any combination of the following flags: ’-0.’ and the field minimum width under all conversions.
-- Manage all the following flags: ’# +’ (Yes, one of them is a space)
+- Manage any combination of the following flags: `-0.` and the field minimum width under all conversions.
+- Manage all the following flags: `# +` (Yes, one of them is a space)
 
 *Note: The bonus part will only be assessed if the mandatory part is PERFECT.*
 
